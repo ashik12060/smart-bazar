@@ -14,6 +14,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
+import { Link } from "react-router-dom";
 
 const TableHeader = () => {
   return (
@@ -74,7 +75,10 @@ const TableHeader = () => {
                   <a class="dropdown-item" href="#">
                     <div className="d-flex justify-content-between align-items-center">
                       <span className="fw-bold">
-                        <FontAwesomeIcon icon={faPerson} className="pe-1 fw-bold" />
+                        <FontAwesomeIcon
+                          icon={faPerson}
+                          className="pe-1 fw-bold"
+                        />
                         Men
                       </span>
                       <FontAwesomeIcon icon={faAngleRight} />
@@ -145,6 +149,7 @@ const TableHeader = () => {
                     </div>
                   </a>
                 </li>
+
               </ul>
             </li>
           </th>
