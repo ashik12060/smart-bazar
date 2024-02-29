@@ -6,9 +6,9 @@ import { Link } from 'react-router-dom'
 const SideNav = () => {
   return (
     <div>
-        <div className="rounded sidebar border bg-white h-50">
-          <h6 className="bg-sidebar text-white p-2 fs-5 rounded ">
-            Wiring Accessories
+        <div className="rounded sidebar border bg-white h-25">
+          <h6 className="bg-sidebar p-2 fs-5 rounded font-color">
+          PRODUCT CATEGORIES
           </h6>
           <ul className="list-unstyled">
             <div class="btn-group dropend d-flex justify-content-between">

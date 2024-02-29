@@ -21,17 +21,14 @@ const Products = () => {
     <div>
          <div>
       <div className="container mb-5">
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-4 row-cols-ld-4  g-4">
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-5 row-cols-ld-5  g-4">
           <div class="col">
             <div class="card h-100 bg-card bg-hover">
               <div class="card-body text-center">
                 <img className='w-100' src={img1} alt='switch-img' />
-                <h4 class="card-title fw-bold">WEB DESIGN & DEVELOPMENT</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+               
+                <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -39,8 +36,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img2} alt='switch-img' />
-                <h4 class="card-title fw-bold ">APP DEVELOPMENT</h4>
-                <p class="card-text">This is a short card.</p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -48,11 +45,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img3} alt='switch-img' />
-                <h4 class="card-title fw-bold">UI/UX DESIGN</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -60,12 +54,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img4} alt='switch-img' />
-                <h4 class="card-title fw-bold">MACHINE LEARNING</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -73,12 +63,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img5} alt='switch-img' />
-                <h4 class="card-title fw-bold">VIDEO EDITING</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -86,12 +72,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img6} alt='switch-img' />
-                <h4 class="card-title fw-bold">SOCIAL MEDIA MARKETING</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -99,12 +81,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img7} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -112,12 +90,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img8} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -125,12 +99,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img9} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -138,12 +108,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img10} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -151,12 +117,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img11} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -164,12 +126,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img12} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -177,12 +135,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img13} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -190,12 +144,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img14} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -203,12 +153,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img15} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
@@ -216,12 +162,8 @@ const Products = () => {
             <div class="card h-100 bg-card">
               <div class="card-body text-center">
               <img className='w-100' src={img16} alt='switch-img' />
-                <h4 class="card-title fw-bold">GOOGLE ANALYTICS</h4>
-                <p class="card-text">
-                  This is a longer card with supporting text below as a
-                  natural lead-in to additional content. This content is a
-                  little bit longer.
-                </p>
+              <span className='fw-bold '>AirBird White Color</span> <br />
+                <span className='fw-bold font-color'>$19</span>
               </div>
             </div>
           </div>
