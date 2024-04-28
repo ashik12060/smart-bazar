@@ -26,7 +26,7 @@ const Footer = () => {
             <FontAwesomeIcon icon={faLocationDot} /> Dhaka, Bangladesh
           </p>
           <p className="text-white">
-            <FontAwesomeIcon icon={faMobileScreen} /> Phone: 01999999999
+            <FontAwesomeIcon icon={faMobileScreen} /> Phone: 01317424004
           </p>
         </div>
 
